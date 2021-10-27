@@ -36,6 +36,7 @@ a:hover {
 
 p {
   line-height: 1.5;
+  margin-bottom: 40px;
 }
 
 .card-white {
@@ -43,12 +44,12 @@ p {
   border-radius: 8px;
   box-shadow:  2px 2px rgb(0 0 0 / 10%);
   margin: 25px;
-  padding: 25px 55px;
+  padding: 25px 55px 40px;
 }
 
 .img-circle {
   object-fit: cover;
-  width: 200x;
+  width: 200px;
 	height: 200px;
   border-radius: 100px;
 }
@@ -62,7 +63,6 @@ p {
 .btn-cta {
   background-color: #723d46;
   color: white;
-  margin: 20px;
   padding: 8px;
   border-radius: 6px;
 }
